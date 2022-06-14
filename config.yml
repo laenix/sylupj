@@ -1,0 +1,11 @@
+user:
+  number: 学号
+  password: 密码
+url:
+  login: https://jxw.sylu.edu.cn/xtgl/login_slogin.html
+  publickey: https://jxw.sylu.edu.cn/xtgl/login_getPublicKey.html
+  menu: https://jxw.sylu.edu.cn/xtgl/index_initMenu.html?jsdm=&_t=
+  pj: https://jxw.sylu.edu.cn/xspjgl/xspj_cxXspjIndex.html?gnmkdm=N401605&layout=default&dltz=yes
+  pjlist: https://jxw.sylu.edu.cn/xspjgl/xspj_cxXspjIndex.html?doType=query&gnmkdm=N401605&su=
+  pjdetail: https://jxw.sylu.edu.cn/xspjgl/xspj_cxXspjDisplay.html?gnmkdm=N401605&su=
+  pjpost: https://jxw.sylu.edu.cn/xspjgl/xspj_tjXspj.html?gnmkdm=N401605&su=
